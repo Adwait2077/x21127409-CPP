@@ -6,7 +6,7 @@ SECRET_KEY = '6+_(6czw@+gbm$5q@j6u#ubk^)19o&0+3wi!2u(%x^^y^!d(j#'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['d681ab3fcd7d462f9182ee4240b49355.vfs.cloud9.eu-west-1.amazonaws.com']
+ALLOWED_HOSTS = ['d681ab3fcd7d462f9182ee4240b49355.vfs.cloud9.eu-west-1.amazonaws.com','x21127409-cpp-project-env.eba-vkjfrf72.eu-west-1.elasticbeanstalk.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
